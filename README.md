@@ -1,2 +1,2 @@
-# iOS-Appa
+# iOS-Apps
 multiple iOs apps examples
